@@ -1,7 +1,7 @@
 ## hello-world-ios-app
 #### An iOS Pre-work project that I made following [CodePath.org](http://codepath.org/)'s tutorials to apply for its 12-week [Mobile App Design](http://codepath.org/classes#fifth-course) online course. 
 
-This iOS displays "Hello from Cora!" with a button that allows the user to do the following:
+This iOS app displays "Hello from Cora!" with buttons that allow the user to do the following:
 - change the text displayed
 - change the text color
 - change the background screen color
@@ -15,7 +15,7 @@ The user can also tap outside of any button or field to reset the screen to the 
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
-- [x] 2. User see's custom background color.
+- [x] 2. User sees custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
