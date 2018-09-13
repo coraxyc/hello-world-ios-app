@@ -1,7 +1,7 @@
 ## hello-world-ios-app
 #### An iOS Pre-work project that I made following [CodePath.org](http://codepath.org/)'s tutorials to apply for its 12-week [Mobile App Design](http://codepath.org/classes#fifth-course) online course. 
 
-This iOS app displays "Hello from Cora!" with a button that allows the user to do the following:
+This iOS app displays "Hello from Cora!" with buttons that allows the user to do the following:
 - change the text displayed
 - change the text color
 - change the background screen color
