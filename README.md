@@ -3,7 +3,7 @@
 
 This iOS app displays "Hello from Cora!" with buttons that allow the user to do the following:
 - change the text displayed
-- change the text color
+- change the text color and revert the change
 - change the background screen color
 - display text to say goodbye
 
