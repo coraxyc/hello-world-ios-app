@@ -1,5 +1,5 @@
 ## hello-world-ios-app
-### An iOS app that displays "Hello World!" with features that allow the user to change the text and colors
+#### An iOS app that displays "Hello from Cora!" with a button that allows the user to change the text color.
 
 ### App Walk-though
 
