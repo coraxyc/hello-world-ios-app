@@ -10,7 +10,7 @@ This iOS app displays "Hello from Cora!" with buttons that allow the user to do 
 The user can also tap outside of any button or field to reset the screen to the default settings.
 
 ### App Walk-through
-Gif created with [Recordit](http://recordit.co/)
+Gif created with [Recordit](http://recordit.co/) <br />
 <img src="https://github.com/coraxyc/hello-world-ios-app/blob/master/images/hello_from_cora_v3.gif" width=200><br>
 
 ### Required User Stories
