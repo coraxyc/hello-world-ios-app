@@ -36,13 +36,18 @@ class ViewController: UIViewController {
         // Print hello and change text hello text color
         
         print("Hello")
-        textLabel.textColor = UIColor.orange
+        if textLabel.textColor == UIColor.orange {
+            textLabel.textColor = initTextColor
+        } else {
+            textLabel.textColor = UIColor.orange
+        }
+        
     }
     
     @IBAction func didTapChangeViewColorButton(_ sender: Any) {
         // Change background color of screen
         
-        view.backgroundColor = UIColor(displayP3Red: (231/255.0), green: (223/255.0), blue: (198/255.0), alpha: 1)
+        view.backgroundColor = UIColor(displayP3Red: (42/255.0), green: (33/255.0), blue: (78/255.0), alpha: 1)
     }
     
     @IBAction func didTapChangeTextButton(_ sender: Any) {

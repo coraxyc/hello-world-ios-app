@@ -11,7 +11,7 @@ The user can also tap outside of any button or field to reset the screen to the 
 
 ### App Walk-though
 
-<img src="https://github.com/coraxyc/hello-world-ios-app/blob/master/images/hello_from_cora_v2.gif" width=200><br>
+<img src="https://github.com/coraxyc/hello-world-ios-app/blob/master/images/hello_from_cora_v3.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
